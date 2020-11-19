@@ -9,8 +9,8 @@ function swap(array, idx1, idx2) {
 function bubbleSort(array) {
   // your code here
 }
-
+test;
 module.exports = {
   bubbleSort,
-  swap
+  swap,
 };
